@@ -1,6 +1,6 @@
 (function() {
     const VERSION = "v1.0";
-    console.log("年次チェック:", VERSION);
+    console.log("超勤3:", VERSION);
     'use strict';
 
     /********** ① 今のレコード画面：ボタン **********/
